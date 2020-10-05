@@ -3,6 +3,12 @@ __영상의 핵심 문장 추출 및 핵심 키워드의 timestamp 찾기__<br/>
 
 stt를 실행하여 script와 timestamp를 저장한 뒤, 원하는 파일 실행(빈도수 이용, textrank, lda, 단순 키워드 매칭 사용)
 
+### 사용한 데이터
+
+* [유튜브 하나TV 주요기업 2분기 실적 발표 영상](https://www.youtube.com/watch?v=NZclCFc9sa0&t=703s)
+* 핵심문장 및 timestamp는 다음과 같이 해당 영상의 설명부분이라고 간주
+<img width="400" src="https://user-images.githubusercontent.com/41534519/95038247-9ec86c80-0708-11eb-82ba-92c04319bf78.png">
+
 ### 1. STT
 * 구글 stt 이용, script와 timestamp정보 저장
 * [Google STT Link](https://cloud.google.com/speech-to-text?hl=ko)
