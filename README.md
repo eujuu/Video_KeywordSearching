@@ -19,7 +19,7 @@ stt를 실행하여 script와 timestamp를 저장한 뒤, 원하는 파일 실�
 
 ### 3. TextRank
 * 핵심 문장을 찾는 전통적인 기법인 TextRank
-* [lovit textrank] (https://lovit.github.io/nlp/2019/04/30/textrank/) <br/>
+* [lovit textrank](https://lovit.github.io/nlp/2019/04/30/textrank/) <br/>
 +) wordRank는 별로여서 따로 저장하지 않음
 
 ### 4. LDA
